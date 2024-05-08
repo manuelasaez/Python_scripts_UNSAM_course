@@ -1,0 +1,3 @@
+en 1.9 como dice "agrega" pareciera que esto se suma a lo propuesto antes en el 1.7. es confuso
+Luego, cuando te dicen lo del mes 61 y 108, eso es si tu contador empezo en mes=1. Si empezo en 0 hay que cambiarlo. 
+
