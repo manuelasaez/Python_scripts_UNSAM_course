@@ -1,1 +1,1 @@
-esta carpeta contiene subcarpetas ordenadas por clase y otra con los archivos de datos de toda la materia
+This repository contains all the solved Python exercises corresponding to the Python Programming course at the University of San Martin, python-unsam/Programacion_en_Python_UNSAM. Sorted by "clase" (lesson).
